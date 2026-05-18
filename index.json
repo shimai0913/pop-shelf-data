@@ -3,39 +3,18 @@
   "updatedAt": "2026-05-18",
   "ips": [
     {
-      "id": "skullpanda",
-      "name": "SKULLPANDA",
-      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/skullpanda.webp",
-      "totalCount": 12,
-      "seriesCount": 2
-    },
-    {
-      "id": "labubu",
-      "name": "LABUBU",
-      "thumbnailUrl": null,
-      "totalCount": 10,
-      "seriesCount": 2
-    },
-    {
-      "id": "molly",
-      "name": "MOLLY",
-      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/molly.webp",
-      "totalCount": 8,
-      "seriesCount": 1
-    },
-    {
-      "id": "dimoo",
-      "name": "DIMOO",
-      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/dimoo.webp",
-      "totalCount": 39,
-      "seriesCount": 3
-    },
-    {
       "id": "the-monsters",
       "name": "THE MONSTERS",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/the-monsters.webp",
       "totalCount": 0,
       "seriesCount": 0
+    },
+    {
+      "id": "skullpanda",
+      "name": "SKULLPANDA",
+      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/skullpanda.webp",
+      "totalCount": 12,
+      "seriesCount": 2
     },
     {
       "id": "twinkle-twinkle",
@@ -52,11 +31,25 @@
       "seriesCount": 0
     },
     {
+      "id": "molly",
+      "name": "MOLLY",
+      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/molly.webp",
+      "totalCount": 8,
+      "seriesCount": 1
+    },
+    {
       "id": "angry-molly",
       "name": "Angry Molly",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/angry-molly.webp",
       "totalCount": 0,
       "seriesCount": 0
+    },
+    {
+      "id": "dimoo",
+      "name": "DIMOO",
+      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/dimoo.webp",
+      "totalCount": 39,
+      "seriesCount": 3
     },
     {
       "id": "hirono",
@@ -83,6 +76,13 @@
       "id": "royal-molly",
       "name": "ROYAL MOLLY",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/royal-molly.webp",
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "polar",
+      "name": "POLAR",
+      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/polar.webp",
       "totalCount": 0,
       "seriesCount": 0
     },
@@ -202,13 +202,6 @@
       "id": "harry-potter",
       "name": "Harry Potter",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/harry-potter.webp",
-      "totalCount": 0,
-      "seriesCount": 0
-    },
-    {
-      "id": "polar",
-      "name": "POLAR",
-      "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/polar.webp",
       "totalCount": 0,
       "seriesCount": 0
     }
