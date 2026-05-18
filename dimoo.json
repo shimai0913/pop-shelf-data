@@ -1,0 +1,425 @@
+{
+  "id": "dimoo",
+  "name": "DIMOO",
+  "designer": "Ayan Tang",
+  "updatedAt": "2026-05-18",
+  "series": [
+    {
+      "id": "dimoo-space-travel",
+      "name": "Space Travel Series",
+      "type": "box",
+      "releaseYear": 2020,
+      "releaseDate": "2020-03",
+      "characters": [
+        {
+          "id": "dimoo-space-travel-001",
+          "name": "Jet Boy",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-002",
+          "name": "Explorer",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-003",
+          "name": "Kitty Space Boy",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-004",
+          "name": "UFO BOY",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-005",
+          "name": "Flower Boy",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-006",
+          "name": "Rocket Boy",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-007",
+          "name": "Doctor Of Aeronautics",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-008",
+          "name": "Earth Baby",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-009",
+          "name": "Electric Boy",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-010",
+          "name": "Monster Boy",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-011",
+          "name": "Astronaut Coser",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-012",
+          "name": "Astronaut",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-space-travel-secret",
+          "name": "Cosmic Boy",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dimoo-forest-night",
+      "name": "Forest Night Series",
+      "type": "box",
+      "releaseYear": 2021,
+      "releaseDate": "2021-10",
+      "characters": [
+        {
+          "id": "dimoo-forest-night-001",
+          "name": "Wild Man",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-002",
+          "name": "Firefly",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-003",
+          "name": "Raccoon",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-004",
+          "name": "Night Wolf",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-005",
+          "name": "Sleepy Bunny",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-006",
+          "name": "Dark Rose",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-007",
+          "name": "Little Bee",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-008",
+          "name": "Mushroom",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-009",
+          "name": "Sunflower",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-010",
+          "name": "Dewdrop",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-011",
+          "name": "Baby Bat",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-012",
+          "name": "Night Watcher",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-forest-night-secret",
+          "name": "Hidden Stump",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    },
+    {
+      "id": "dimoo-animal-kingdom",
+      "name": "Animal Kingdom Series",
+      "type": "box",
+      "releaseYear": 2024,
+      "releaseDate": "2024-03",
+      "characters": [
+        {
+          "id": "dimoo-animal-kingdom-001",
+          "name": "Duckling Leader",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-002",
+          "name": "Sleeping Bunny",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-003",
+          "name": "Warm Polar Bear",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-004",
+          "name": "Taichi Panda",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-005",
+          "name": "Bear Dad",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-006",
+          "name": "Baby Elephant Bubble",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-007",
+          "name": "Foodie Giraffe",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-008",
+          "name": "Red Panda With Apple",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-009",
+          "name": "Crocodile Cleaner",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-010",
+          "name": "Penguin Tango",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-011",
+          "name": "Tigers Learn to Walk",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-012",
+          "name": "Sleepy Koala",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "dimoo-animal-kingdom-secret",
+          "name": "Monkey Catches the Moon",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    }
+  ]
+}
