@@ -2,6 +2,70 @@
   "id": "crybaby",
   "name": "CRYBABY",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "crybaby-crying-for-love",
+      "name": "Crying For Love シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "crybaby-パワーパフ-ガールズ",
+      "name": "× パワーパフ ガールズ シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "crybaby-monster-tears",
+      "name": "Monster Tears シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "crybaby-crying-again",
+      "name": "Crying Again シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "crybaby-crying-to-the-moon",
+      "name": "CRYING TO THE MOON シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "crybaby-crying-to-the-moon-sitting",
+      "name": "CRYING TO THE MOON SITTINGシリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "crybaby-cry-me-an-ocean",
+      "name": "Cry Me an Ocean シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

@@ -2,6 +2,43 @@
   "id": "twinkle-twinkle",
   "name": "Twinkle Twinkle",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "twinkle-twinkle-gifts-from-stars",
+      "name": "The Gifts From Stars シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "twinkle-twinkle-be-a-little-star",
+      "name": "Be a Little Star シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "twinkle-twinkle-savor-the-moment",
+      "name": "Savor the Moment シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "twinkle-twinkle-crush-on-you",
+      "name": "Crush On You シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

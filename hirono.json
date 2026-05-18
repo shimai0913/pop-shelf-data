@@ -2,6 +2,61 @@
   "id": "hirono",
   "name": "HIRONO",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "hirono-星の王子さま",
+      "name": "× 星の王子さま シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hirono-shelter",
+      "name": "Shelter シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hirono-いたずらっ子",
+      "name": "いたずらっ子 シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hirono-echo",
+      "name": "Echo シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hirono-other-one",
+      "name": "The Other One Series",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hirono-monsters-carnival",
+      "name": "Monsters' Carnival シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

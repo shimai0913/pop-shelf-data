@@ -2,6 +2,25 @@
   "id": "inosoul",
   "name": "inosoul",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "inosoul-in-the-still-room",
+      "name": "In the Still Room シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "inosoul-forgotten-land",
+      "name": "The Forgotten Land シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "id": "dimoo",
   "name": "DIMOO",
   "designer": "Ayan Tang",
-  "updatedAt": "2026-05-18",
+  "updatedAt": "2026-05-19",
   "series": [
     {
       "id": "dimoo-space-travel",
@@ -420,6 +420,60 @@
           "purchaseUrl": null
         }
       ]
+    },
+    {
+      "id": "dimoo-by-your-side",
+      "name": "By Your Side シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "dimoo-world-disney",
+      "name": "WORLD × DISNEY シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "dimoo-shapes-in-nature",
+      "name": "Shapes in Nature シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "dimoo-missing-day",
+      "name": "The Missing Day シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "dimoo-memories-we-hold",
+      "name": "Memories We Hold シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "dimoo-moments-in-bloom",
+      "name": "Moments in Bloom シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
     }
   ]
 }

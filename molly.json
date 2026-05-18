@@ -2,7 +2,7 @@
   "id": "molly",
   "name": "MOLLY",
   "designer": "Kenny Wong",
-  "updatedAt": "2024-03-01",
+  "updatedAt": "2026-05-19",
   "series": [
     {
       "id": "molly-zodiac",
@@ -18,7 +18,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "牡羊座のMOLLY。元気いっぱいの一体。",
-          "tags": ["レッド", "星座"],
+          "tags": [
+            "レッド",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -28,7 +31,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "牡牛座のMOLLY。どっしりと落ち着いた存在。",
-          "tags": ["グリーン", "星座"],
+          "tags": [
+            "グリーン",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -38,7 +44,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "双子座のMOLLY。二面性を持つ不思議な一体。",
-          "tags": ["イエロー", "星座"],
+          "tags": [
+            "イエロー",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -48,7 +57,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "蟹座のMOLLY。守りを大切にする優しい存在。",
-          "tags": ["ホワイト", "星座"],
+          "tags": [
+            "ホワイト",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -58,7 +70,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "獅子座のMOLLY。堂々たる風格の一体。",
-          "tags": ["ゴールド", "星座"],
+          "tags": [
+            "ゴールド",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -68,7 +83,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "乙女座のMOLLY。繊細で知的な美しさ。",
-          "tags": ["ベージュ", "星座"],
+          "tags": [
+            "ベージュ",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -78,7 +96,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "天秤座のMOLLY。バランス感覚の優れた一体。",
-          "tags": ["ブルー", "星座"],
+          "tags": [
+            "ブルー",
+            "星座"
+          ],
           "purchaseUrl": null
         },
         {
@@ -92,6 +113,33 @@
           "purchaseUrl": null
         }
       ]
+    },
+    {
+      "id": "molly-アニバーサリー-クラシカル-レトロ-2",
+      "name": "アニバーサリー クラシカル レトロ 2 シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "molly-x-ズートピア-コラボ",
+      "name": "x ズートピア コラボシリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "molly-scenery-along-the-way-20th-anniversary",
+      "name": "Scenery Along the Way 20th Anniversary シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
     }
   ]
 }

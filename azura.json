@@ -2,6 +2,34 @@
   "id": "azura",
   "name": "AZURA",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "azura-warm-christmas",
+      "name": "Warm Christmas シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "azura-dream-about-stars",
+      "name": "A Dream About Stars シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "azura-ethereal-realm-mythical-beasts",
+      "name": "Ethereal Realm: Mythical Beasts シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

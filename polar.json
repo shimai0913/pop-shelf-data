@@ -2,6 +2,34 @@
   "id": "polar",
   "name": "POLAR",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "polar-hello-polar-season-1",
+      "name": "HELLO POLAR Season 1 シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "polar-season-2-hidden-forest-path",
+      "name": "Season 2 <Hidden Forest Path> シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "polar-season-3-polar-in-monster-village",
+      "name": "Season 3 <Polar In Monster Village> シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

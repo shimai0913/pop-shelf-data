@@ -2,7 +2,7 @@
   "id": "skullpanda",
   "name": "SKULLPANDA",
   "designer": "Xiong Meihui",
-  "updatedAt": "2024-03-01",
+  "updatedAt": "2026-05-19",
   "series": [
     {
       "id": "skullpanda-space",
@@ -18,7 +18,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "宇宙を漂うキャンディカラーのSKULLPANDA。",
-          "tags": ["ピンク", "スペース"],
+          "tags": [
+            "ピンク",
+            "スペース"
+          ],
           "purchaseUrl": null
         },
         {
@@ -28,7 +31,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "星雲から生まれた神秘的な存在。",
-          "tags": ["ブルー", "スペース"],
+          "tags": [
+            "ブルー",
+            "スペース"
+          ],
           "purchaseUrl": null
         },
         {
@@ -38,7 +44,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "彗星のように疾走するSKULLPANDA。",
-          "tags": ["ホワイト", "スペース"],
+          "tags": [
+            "ホワイト",
+            "スペース"
+          ],
           "purchaseUrl": null
         },
         {
@@ -48,7 +57,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "日食に魅せられた漆黒のSKULLPANDA。",
-          "tags": ["ブラック", "スペース"],
+          "tags": [
+            "ブラック",
+            "スペース"
+          ],
           "purchaseUrl": null
         },
         {
@@ -58,7 +70,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "星雲の色彩を纏った幻想的な一体。",
-          "tags": ["パープル", "スペース"],
+          "tags": [
+            "パープル",
+            "スペース"
+          ],
           "purchaseUrl": null
         },
         {
@@ -87,7 +102,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "闇の中に潜む幻影のSKULLPANDA。",
-          "tags": ["ブラック", "ダーク"],
+          "tags": [
+            "ブラック",
+            "ダーク"
+          ],
           "purchaseUrl": null
         },
         {
@@ -97,7 +115,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "影と同化した静寂の存在。",
-          "tags": ["グレー", "ダーク"],
+          "tags": [
+            "グレー",
+            "ダーク"
+          ],
           "purchaseUrl": null
         },
         {
@@ -107,7 +128,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "虚空から現れた謎めいたSKULLPANDA。",
-          "tags": ["ダークパープル", "ダーク"],
+          "tags": [
+            "ダークパープル",
+            "ダーク"
+          ],
           "purchaseUrl": null
         },
         {
@@ -117,7 +141,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "黄昏時に目覚める夕暮れのSKULLPANDA。",
-          "tags": ["オレンジ", "ダーク"],
+          "tags": [
+            "オレンジ",
+            "ダーク"
+          ],
           "purchaseUrl": null
         },
         {
@@ -127,7 +154,10 @@
           "isSecret": false,
           "imageUrl": null,
           "description": "鴉のように賢く、夜を支配する一体。",
-          "tags": ["ブラック", "ダーク"],
+          "tags": [
+            "ブラック",
+            "ダーク"
+          ],
           "purchaseUrl": null
         },
         {
@@ -141,6 +171,51 @@
           "purchaseUrl": null
         }
       ]
+    },
+    {
+      "id": "skullpanda-mirage",
+      "name": "The Mirage シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "skullpanda-warmth",
+      "name": "The Warmth シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "skullpanda-paradox",
+      "name": "The Paradox シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "skullpanda-feast-begins",
+      "name": "The Feast Begins シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "skullpanda-petals-in-four-acts",
+      "name": "Petals in Four Acts シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
     }
   ]
 }

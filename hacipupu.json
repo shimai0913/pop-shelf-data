@@ -2,6 +2,34 @@
   "id": "hacipupu",
   "name": "HACIPUPU",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "hacipupu-night-of-fantasy",
+      "name": "A Night of Fantasy シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hacipupu-rolling-time-machine",
+      "name": "Rolling Time Machine シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "hacipupu-whispers-of-my-world",
+      "name": "Whispers of My World シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

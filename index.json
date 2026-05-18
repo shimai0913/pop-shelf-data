@@ -1,41 +1,41 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-18",
+  "updatedAt": "2026-05-19",
   "ips": [
     {
       "id": "the-monsters",
       "name": "THE MONSTERS",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/the-monsters.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 5
     },
     {
       "id": "skullpanda",
       "name": "SKULLPANDA",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/skullpanda.webp",
       "totalCount": 12,
-      "seriesCount": 2
+      "seriesCount": 7
     },
     {
       "id": "twinkle-twinkle",
       "name": "Twinkle Twinkle",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/twinkle-twinkle.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 4
     },
     {
       "id": "crybaby",
       "name": "CRYBABY",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/crybaby.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 7
     },
     {
       "id": "molly",
       "name": "MOLLY",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/molly.webp",
       "totalCount": 8,
-      "seriesCount": 1
+      "seriesCount": 4
     },
     {
       "id": "angry-molly",
@@ -49,21 +49,21 @@
       "name": "DIMOO",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/dimoo.webp",
       "totalCount": 39,
-      "seriesCount": 3
+      "seriesCount": 9
     },
     {
       "id": "hirono",
       "name": "HIRONO",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/hirono.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 6
     },
     {
       "id": "zsiga",
       "name": "Zsiga",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/zsiga.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 5
     },
     {
       "id": "space-molly",
@@ -84,49 +84,49 @@
       "name": "POLAR",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/polar.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 3
     },
     {
       "id": "baby-molly",
       "name": "Baby Molly",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/baby-molly.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 3
     },
     {
       "id": "pucky",
       "name": "PUCKY",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/pucky.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 3
     },
     {
       "id": "inosoul",
       "name": "inosoul",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/inosoul.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 2
     },
     {
       "id": "1001moons",
       "name": "1001MOONS",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/1001moons.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 1
     },
     {
       "id": "hacipupu",
       "name": "HACIPUPU",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/hacipupu.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 3
     },
     {
       "id": "azura",
       "name": "AZURA",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/azura.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 3
     },
     {
       "id": "peach-riot",
@@ -140,49 +140,49 @@
       "name": "Nyota",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/nyota.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 4
     },
     {
       "id": "kubo",
       "name": "KUBO",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/kubo.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 2
     },
     {
       "id": "sweet-bean",
       "name": "Sweet Bean",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/sweet-bean.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 5
     },
     {
       "id": "supertutu",
       "name": "SUPERTUTU",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/supertutu.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 1
     },
     {
       "id": "pino-jelly",
       "name": "PINO JELLY",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/pino-jelly.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 5
     },
     {
       "id": "sanrio",
       "name": "Sanrio",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/sanrio.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 1
     },
     {
       "id": "disney",
       "name": "Disney",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/disney.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 11
     },
     {
       "id": "bikini-bottom",
@@ -196,7 +196,7 @@
       "name": "UNIVERSAL",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/universal.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 1
     },
     {
       "id": "harry-potter",

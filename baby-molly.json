@@ -2,6 +2,34 @@
   "id": "baby-molly",
   "name": "Baby Molly",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "baby-molly-baby-tabby",
+      "name": "& Baby Tabby シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "baby-molly-my-huggable-discovery",
+      "name": "My Huggable Discovery シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "baby-molly-when-i-was-three",
+      "name": "When I was Three！シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

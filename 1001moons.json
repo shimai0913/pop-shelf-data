@@ -2,6 +2,16 @@
   "id": "1001moons",
   "name": "1001MOONS",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "1001moons-where-s-the-elephant-slide",
+      "name": "Where's the Elephant Slideシリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

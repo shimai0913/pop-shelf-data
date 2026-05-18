@@ -2,6 +2,16 @@
   "id": "universal",
   "name": "UNIVERSAL",
   "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "updatedAt": "2026-05-19",
+  "series": [
+    {
+      "id": "universal-despicable-me-4",
+      "name": "Despicable Me 4 シリーズ",
+      "type": "box",
+      "releaseYear": null,
+      "releaseDate": null,
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }
