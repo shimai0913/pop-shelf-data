@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2024-03-01",
+  "updatedAt": "2026-05-18",
   "ips": [
     {
       "id": "skullpanda",
@@ -29,6 +29,181 @@
       "thumbnailUrl": null,
       "totalCount": 39,
       "seriesCount": 3
+    },
+    {
+      "id": "the-monsters",
+      "name": "THE MONSTERS",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "twinkle-twinkle",
+      "name": "Twinkle Twinkle",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "crybaby",
+      "name": "CRYBABY",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "angry-molly",
+      "name": "Angry Molly",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "hirono",
+      "name": "HIRONO",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "zsiga",
+      "name": "Zsiga",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "space-molly",
+      "name": "SPACE MOLLY",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "royal-molly",
+      "name": "ROYAL MOLLY",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "baby-molly",
+      "name": "Baby Molly",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "pucky",
+      "name": "PUCKY",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "inosoul",
+      "name": "inosoul",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "1001moons",
+      "name": "1001MOONS",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "hacipupu",
+      "name": "HACIPUPU",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "azura",
+      "name": "AZURA",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "peach-riot",
+      "name": "Peach Riot",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "nyota",
+      "name": "Nyota",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "kubo",
+      "name": "KUBO",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "sweet-bean",
+      "name": "Sweet Bean",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "supertutu",
+      "name": "SUPERTUTU",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "pino-jelly",
+      "name": "PINO JELLY",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "sanrio",
+      "name": "Sanrio",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "disney",
+      "name": "Disney",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "bikini-bottom",
+      "name": "Bikini Bottom",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "universal",
+      "name": "UNIVERSAL",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
+    },
+    {
+      "id": "harry-potter",
+      "name": "Harry Potter",
+      "thumbnailUrl": null,
+      "totalCount": 0,
+      "seriesCount": 0
     }
   ]
 }
