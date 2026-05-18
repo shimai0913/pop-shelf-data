@@ -1,0 +1,146 @@
+{
+  "id": "skullpanda",
+  "name": "SKULLPANDA",
+  "designer": "Xiong Meihui",
+  "updatedAt": "2024-03-01",
+  "series": [
+    {
+      "id": "skullpanda-space",
+      "name": "The Space Series",
+      "type": "box",
+      "releaseYear": 2024,
+      "releaseDate": "2024-03",
+      "characters": [
+        {
+          "id": "skullpanda-space-001",
+          "name": "Candy",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "宇宙を漂うキャンディカラーのSKULLPANDA。",
+          "tags": ["ピンク", "スペース"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-space-002",
+          "name": "Nova",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "星雲から生まれた神秘的な存在。",
+          "tags": ["ブルー", "スペース"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-space-003",
+          "name": "Comet",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "彗星のように疾走するSKULLPANDA。",
+          "tags": ["ホワイト", "スペース"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-space-004",
+          "name": "Eclipse",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "日食に魅せられた漆黒のSKULLPANDA。",
+          "tags": ["ブラック", "スペース"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-space-005",
+          "name": "Nebula",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "星雲の色彩を纏った幻想的な一体。",
+          "tags": ["パープル", "スペース"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-space-secret",
+          "name": "Secret",
+          "slot": 6,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    },
+    {
+      "id": "skullpanda-dark",
+      "name": "The Dark Series",
+      "type": "box",
+      "releaseYear": 2023,
+      "releaseDate": "2023-09",
+      "characters": [
+        {
+          "id": "skullpanda-dark-001",
+          "name": "Phantom",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "闇の中に潜む幻影のSKULLPANDA。",
+          "tags": ["ブラック", "ダーク"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-dark-002",
+          "name": "Shadow",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "影と同化した静寂の存在。",
+          "tags": ["グレー", "ダーク"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-dark-003",
+          "name": "Void",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "虚空から現れた謎めいたSKULLPANDA。",
+          "tags": ["ダークパープル", "ダーク"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-dark-004",
+          "name": "Dusk",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "黄昏時に目覚める夕暮れのSKULLPANDA。",
+          "tags": ["オレンジ", "ダーク"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-dark-005",
+          "name": "Raven",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": "鴉のように賢く、夜を支配する一体。",
+          "tags": ["ブラック", "ダーク"],
+          "purchaseUrl": null
+        },
+        {
+          "id": "skullpanda-dark-secret",
+          "name": "Secret",
+          "slot": 6,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    }
+  ]
+}

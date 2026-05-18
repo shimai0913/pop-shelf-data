@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2024-03-01",
+  "ips": [
+    {
+      "id": "skullpanda",
+      "name": "SKULLPANDA",
+      "thumbnailUrl": null,
+      "totalCount": 12,
+      "seriesCount": 2
+    },
+    {
+      "id": "labubu",
+      "name": "LABUBU",
+      "thumbnailUrl": null,
+      "totalCount": 10,
+      "seriesCount": 2
+    },
+    {
+      "id": "molly",
+      "name": "MOLLY",
+      "thumbnailUrl": null,
+      "totalCount": 8,
+      "seriesCount": 1
+    }
+  ]
+}
