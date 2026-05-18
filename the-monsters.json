@@ -8,8 +8,8 @@
       "id": "the-monsters-コカ-コーラ",
       "name": "コカ・コーラ シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-11-22",
       "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-coca-cola.webp",
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "the-monsters-lazy-yoga",
       "name": "Lazy Yoga シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-08-08",
       "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-lazy-yoga.webp",
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "the-monsters-almost-hidden",
       "name": "Almost Hidden シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-04-11",
       "imageUrl":"https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-almost-hidden.webp",
       "characters": []
     },
@@ -35,8 +35,8 @@
       "id": "the-monsters-1-00-a-m",
       "name": "1:00 A.M. シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-11-14",
       "imageUrl":"https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-1-00-a-m.png",
       "characters": []
     },
@@ -44,8 +44,8 @@
       "id": "the-monsters-10th-anniversary",
       "name": "10th Anniversary シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-01-29",
       "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-10th-anniversary.webp",
       "characters": []
     }
