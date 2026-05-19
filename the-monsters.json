@@ -10,8 +10,109 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-11-22",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-coca-cola.webp",
-      "characters": []
+      "imageUrl": null,
+      "characters": [
+        {
+          "id": "the-monsters-coca-cola-little-snowman",
+          "name": "Little Snowman",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-little-snowman.jpg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-special-sofa",
+          "name": "Special Sofa",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-snowy-mountain",
+          "name": "Snowy Mountain",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-vacation-fit",
+          "name": "Vacation Fit",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-time-to-cool-down",
+          "name": "Time to Cool Down",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-look-what-i-found",
+          "name": "Look What I Found",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-super-surprise",
+          "name": "Super Surprise",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-surf-with-me",
+          "name": "Surf with Me",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-gift-delivery",
+          "name": "Gift Delivery",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-coca-cola-crazy-ride",
+          "name": "Crazy Ride",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "the-monsters-lazy-yoga",
