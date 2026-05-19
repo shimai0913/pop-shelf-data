@@ -130,8 +130,119 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-08-08",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-lazy-yoga.webp",
-      "characters": []
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-lazy-yoga.jpeg",
+      "characters": [
+        {
+          "id": "the-monsters-lazy-yoga-zone-out",
+          "name": "Zone Out",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-zone-out.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-ab-roller",
+          "name": "Ab Roller",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-ab-roller.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-confident",
+          "name": "Confident",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-confident.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-show-off",
+          "name": "Show Off",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-show-off.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-stretch-out",
+          "name": "Stretch Out",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-stretch-out.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-sweating",
+          "name": "Sweating",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-sweating.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-sleeping",
+          "name": "Sleeping",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-sleeping.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-little-bird",
+          "name": "Little Bird",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-little-bird.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-americano",
+          "name": "Americano",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-americano.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-lay-down",
+          "name": "Lay Down",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-lay-down.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-lazy-yoga-yoga-coach",
+          "name": "Yoga Coach",
+          "slot": 11,
+          "isSecret": true,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-yoga-coach.jpg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "the-monsters-almost-hidden",
