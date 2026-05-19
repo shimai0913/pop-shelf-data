@@ -10,14 +10,14 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-11-22",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-coca-cola.webp",
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters/the-monsters-coca-cola.webp",
       "characters": [
         {
           "id": "the-monsters-coca-cola-little-snowman",
           "name": "Little Snowman",
           "slot": 1,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-little-snowman.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-little-snowman.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -27,7 +27,7 @@
           "name": "Special Sofa",
           "slot": 2,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-special-sofa.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-special-sofa.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -37,7 +37,7 @@
           "name": "Snowy Mountain",
           "slot": 3,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-snowy-mountain.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-snowy-mountain.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -47,7 +47,7 @@
           "name": "Vacation Fit",
           "slot": 4,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-vacation-fit.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-vacation-fit.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -57,7 +57,7 @@
           "name": "Time to Cool Down",
           "slot": 5,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-time-to-cool-down.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-time-to-cool-down.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -67,7 +67,7 @@
           "name": "Look What I Found",
           "slot": 6,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-look-what-i-found.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-look-what-i-found.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -77,7 +77,7 @@
           "name": "Super Surprise",
           "slot": 7,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-super-surprise.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-super-surprise.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -87,7 +87,7 @@
           "name": "Surf with Me",
           "slot": 8,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-surf-with-me.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-surf-with-me.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -97,7 +97,7 @@
           "name": "Gift Delivery",
           "slot": 9,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-gift-delivery.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-gift-delivery.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -107,7 +107,7 @@
           "name": "Crazy Ride",
           "slot": 10,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-crazy-ride.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-crazy-ride.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -117,7 +117,7 @@
           "name": "Labubu Express",
           "slot": 11,
           "isSecret": true,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-coca-cola-labubu-express.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-labubu-express.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -130,14 +130,14 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-08-08",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-lazy-yoga.webp",
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters/the-monsters-lazy-yoga.webp",
       "characters": [
         {
           "id": "the-monsters-lazy-yoga-zone-out",
           "name": "Zone Out",
           "slot": 1,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-zone-out.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-zone-out.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -147,7 +147,7 @@
           "name": "Ab Roller",
           "slot": 2,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-ab-roller.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-ab-roller.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -157,7 +157,7 @@
           "name": "Confident",
           "slot": 3,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-confident.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-confident.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -167,7 +167,7 @@
           "name": "Show Off",
           "slot": 4,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-show-off.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-show-off.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -177,7 +177,7 @@
           "name": "Stretch Out",
           "slot": 5,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-stretch-out.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-stretch-out.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -187,7 +187,7 @@
           "name": "Sweating",
           "slot": 6,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-sweating.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-sweating.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -197,7 +197,7 @@
           "name": "Sleeping",
           "slot": 7,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-sleeping.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-sleeping.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -207,7 +207,7 @@
           "name": "Little Bird",
           "slot": 8,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-little-bird.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-little-bird.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -217,7 +217,7 @@
           "name": "Americano",
           "slot": 9,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-americano.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-americano.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -227,7 +227,7 @@
           "name": "Lay Down",
           "slot": 10,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-lay-down.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-lay-down.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -237,7 +237,7 @@
           "name": "Yoga Coach",
           "slot": 11,
           "isSecret": true,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-lazy-yoga-yoga-coach.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-yoga-coach.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -250,14 +250,14 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-04-11",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-almost-hidden.webp",
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters/the-monsters-almost-hidden.webp",
       "characters": [
         {
           "id": "the-monsters-almost-hidden-canned-pineapple",
           "name": "Canned Pineapple",
           "slot": 1,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-canned-pineapple.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-canned-pineapple.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -267,7 +267,7 @@
           "name": "Lamp",
           "slot": 2,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-lamp.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-lamp.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -277,7 +277,7 @@
           "name": "Sculpture",
           "slot": 3,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-sculpture.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-sculpture.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -287,7 +287,7 @@
           "name": "Fire Hydrant",
           "slot": 4,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-fire-hydrant.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-fire-hydrant.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -297,7 +297,7 @@
           "name": "Tree House",
           "slot": 5,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-tree-house.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-tree-house.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -307,7 +307,7 @@
           "name": "Flask",
           "slot": 6,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-flask.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-flask.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -317,7 +317,7 @@
           "name": "Traffic Light",
           "slot": 7,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-traffic-light.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-traffic-light.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -327,7 +327,7 @@
           "name": "Flower Pot",
           "slot": 8,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-flower-pot.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-flower-pot.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -337,7 +337,7 @@
           "name": "Spray Can",
           "slot": 9,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-spray-can.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-spray-can.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -347,7 +347,7 @@
           "name": "Bread Bag",
           "slot": 10,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-bread-bag.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-bread-bag.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -357,7 +357,7 @@
           "name": "Mailbox",
           "slot": 11,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-mailbox.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-mailbox.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -367,7 +367,7 @@
           "name": "Cactus",
           "slot": 12,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-cactus.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-cactus.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -377,7 +377,7 @@
           "name": "Kiddie Ride",
           "slot": 13,
           "isSecret": true,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-kiddie-ride.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-kiddie-ride.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -390,14 +390,14 @@
       "type": "box",
       "releaseYear": 2025,
       "releaseDate": "2025-11-14",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-1-00-a-m.webp",
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters/the-monsters-1-00-a-m.webp",
       "characters": [
         {
           "id": "the-monsters-1-00-a-m-hug-time",
           "name": "Hug Time",
           "slot": 1,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-hug-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-hug-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -407,7 +407,7 @@
           "name": "Scary Time",
           "slot": 2,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-scary-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-scary-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -417,7 +417,7 @@
           "name": "Reading Time",
           "slot": 3,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-reading-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-reading-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -427,7 +427,7 @@
           "name": "Crawling Time",
           "slot": 4,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-crawling-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-crawling-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -437,7 +437,7 @@
           "name": "Adventure Time",
           "slot": 5,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-adventure-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-adventure-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -447,7 +447,7 @@
           "name": "Sweet Dream Time",
           "slot": 6,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-sweet-dream-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-sweet-dream-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -457,7 +457,7 @@
           "name": "Calling Time",
           "slot": 7,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-calling-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-calling-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -467,7 +467,7 @@
           "name": "Sleepless Time",
           "slot": 8,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-sleepless-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-sleepless-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -477,7 +477,7 @@
           "name": "Music Time",
           "slot": 9,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-music-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-music-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -487,7 +487,7 @@
           "name": "Relaxed Time",
           "slot": 10,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-relaxed-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-relaxed-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -497,7 +497,7 @@
           "name": "Stop the Time",
           "slot": 11,
           "isSecret": true,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-stop-the-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-stop-the-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -510,14 +510,14 @@
       "type": "box",
       "releaseYear": 2026,
       "releaseDate": "2026-01-29",
-      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-10th-anniversary.webp",
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters/the-monsters-10th-anniversary.webp",
       "characters": [
         {
           "id": "the-monsters-10th-anniversary-labubu-zimomo",
           "name": "LABUBU & ZIMOMO",
           "slot": 1,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-zimomo.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-zimomo.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -527,7 +527,7 @@
           "name": "LABUBU & TYCOCO",
           "slot": 2,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-tycoco.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-tycoco.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -537,7 +537,7 @@
           "name": "LABUBU & COWAWA",
           "slot": 3,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-cowawa.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-cowawa.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -547,7 +547,7 @@
           "name": "LABUBU & SPOOKY",
           "slot": 4,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-spooky.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-spooky.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -557,7 +557,7 @@
           "name": "LABUBU & PIPPO",
           "slot": 5,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-pippo.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-pippo.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -567,7 +567,7 @@
           "name": "LABUBU & MOKOKO",
           "slot": 6,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-mokoko.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-mokoko.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -577,7 +577,7 @@
           "name": "LABUBU & YAYA",
           "slot": 7,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-yaya.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-yaya.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -587,7 +587,7 @@
           "name": "LABUBU & PATO",
           "slot": 8,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-pato.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-pato.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -597,7 +597,7 @@
           "name": "LABUBU & PUCA",
           "slot": 9,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-labubu-puca.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-puca.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -607,7 +607,7 @@
           "name": "MONSTERS BY MONSTERS",
           "slot": 10,
           "isSecret": true,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-10th-anniversary-monsters-by-monsters.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-monsters-by-monsters.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
