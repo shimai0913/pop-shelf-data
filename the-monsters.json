@@ -390,8 +390,119 @@
       "type": "box",
       "releaseYear": 2025,
       "releaseDate": "2025-11-14",
-      "imageUrl":"https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-1-00-a-m.webp",
-      "characters": []
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-1-00-a-m.webp",
+      "characters": [
+        {
+          "id": "the-monsters-1-00-a-m-hugging-time",
+          "name": "Hugging Time",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-hugging-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-scary-time",
+          "name": "Scary Time",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-scary-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-reading-time",
+          "name": "Reading Time",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-reading-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-crawling-time",
+          "name": "Crawling Time",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-crawling-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-adventure-time",
+          "name": "Adventure Time",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-adventure-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-sweet-dream-time",
+          "name": "Sweet Dream Time",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-sweet-dream-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-phone-time",
+          "name": "Phone Time",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-phone-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-sleepless-time",
+          "name": "Sleepless Time",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-sleepless-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-music-time",
+          "name": "Music Time",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-music-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-relaxed-time",
+          "name": "Relaxed Time",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-relaxed-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-1-00-a-m-stop-the-time",
+          "name": "Stop the Time",
+          "slot": 11,
+          "isSecret": true,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-stop-the-time.webp",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "the-monsters-10th-anniversary",
