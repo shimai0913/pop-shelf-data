@@ -250,8 +250,139 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-04-11",
-      "imageUrl":"https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-almost-hidden.webp",
-      "characters": []
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-almost-hidden.webp",
+      "characters": [
+        {
+          "id": "the-monsters-almost-hidden-canned-pineapple",
+          "name": "Canned Pineapple",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-canned-pineapple.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-lamp",
+          "name": "Lamp",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-lamp.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-sculpture",
+          "name": "Sculpture",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-sculpture.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-fire-hydrant",
+          "name": "Fire Hydrant",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-fire-hydrant.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-tree-house",
+          "name": "Tree House",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-tree-house.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-flask",
+          "name": "Flask",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-flask.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-traffic-light",
+          "name": "Traffic Light",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-traffic-light.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-flower-pot",
+          "name": "Flower Pot",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-flower-pot.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-spray-can",
+          "name": "Spray Can",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-spray-can.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-bread-bag",
+          "name": "Bread Bag",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-bread-bag.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-mailbox",
+          "name": "Mailbox",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-mailbox.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-cactus",
+          "name": "Cactus",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-cactus.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "the-monsters-almost-hidden-kiddie-ride",
+          "name": "Kiddie Ride",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-almost-hidden-kiddie-ride.jpeg",
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "the-monsters-1-00-a-m",
