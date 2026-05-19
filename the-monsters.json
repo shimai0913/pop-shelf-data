@@ -2,7 +2,7 @@
   "id": "the-monsters",
   "name": "THE MONSTERS",
   "designer": null,
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-20",
   "series": [
     {
       "id": "the-monsters-コカ-コーラ",
@@ -393,11 +393,11 @@
       "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/the-monsters-1-00-a-m.webp",
       "characters": [
         {
-          "id": "the-monsters-1-00-a-m-hugging-time",
-          "name": "Hugging Time",
+          "id": "the-monsters-1-00-a-m-hug-time",
+          "name": "Hug Time",
           "slot": 1,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-hugging-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-hug-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
@@ -453,11 +453,11 @@
           "purchaseUrl": null
         },
         {
-          "id": "the-monsters-1-00-a-m-phone-time",
-          "name": "Phone Time",
+          "id": "the-monsters-1-00-a-m-calling-time",
+          "name": "Calling Time",
           "slot": 7,
           "isSecret": false,
-          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-phone-time.webp",
+          "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters-1-00-a-m-calling-time.webp",
           "description": null,
           "tags": [],
           "purchaseUrl": null
