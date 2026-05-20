@@ -1,7 +1,7 @@
 {
   "id": "the-monsters",
   "name": "THE MONSTERS",
-  "designer": null,
+  "designer": "Kasing Lung",
   "updatedAt": "2026-05-20",
   "series": [
     {
@@ -19,7 +19,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-little-snowman.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -29,7 +29,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-special-sofa.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -39,7 +39,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-snowy-mountain.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -49,7 +49,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-vacation-fit.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -59,7 +59,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-time-to-cool-down.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -69,7 +69,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-look-what-i-found.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -79,7 +79,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-super-surprise.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -89,7 +89,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-surf-with-me.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -99,7 +99,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-gift-delivery.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -109,7 +109,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-crazy-ride.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -119,7 +119,7 @@
           "isSecret": true,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-labubu-express.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         }
       ]
@@ -139,7 +139,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-zone-out.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -149,7 +149,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-ab-roller.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -159,7 +159,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-confident.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -169,7 +169,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-show-off.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -179,7 +179,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-stretch-out.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -189,7 +189,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-sweating.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -199,7 +199,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-sleeping.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -209,7 +209,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-little-bird.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -219,7 +219,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-americano.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -229,7 +229,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-lay-down.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -239,7 +239,7 @@
           "isSecret": true,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-yoga-coach.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         }
       ]
@@ -259,7 +259,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-canned-pineapple.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -269,7 +269,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-lamp.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -279,7 +279,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-sculpture.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -289,7 +289,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-fire-hydrant.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -299,7 +299,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-tree-house.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -309,7 +309,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-flask.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -319,7 +319,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-traffic-light.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -329,7 +329,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-flower-pot.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -339,7 +339,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-spray-can.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -349,7 +349,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-bread-bag.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -359,7 +359,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-mailbox.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -369,7 +369,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-cactus.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -379,7 +379,7 @@
           "isSecret": true,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-kiddie-ride.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         }
       ]
@@ -399,7 +399,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-hug-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -409,7 +409,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-scary-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -419,7 +419,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-reading-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -429,7 +429,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-crawling-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -439,7 +439,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-adventure-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -449,7 +449,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-sweet-dream-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -459,7 +459,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-calling-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -469,7 +469,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-sleepless-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -479,7 +479,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-music-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -489,7 +489,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-relaxed-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -499,7 +499,7 @@
           "isSecret": true,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-stop-the-time.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         }
       ]
@@ -519,7 +519,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-zimomo.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -529,7 +529,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-tycoco.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -539,7 +539,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-cowawa.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -549,7 +549,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-spooky.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -559,7 +559,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-pippo.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -569,7 +569,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-mokoko.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -579,7 +579,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-yaya.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -589,7 +589,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-pato.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -599,7 +599,7 @@
           "isSecret": false,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-puca.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         },
         {
@@ -609,7 +609,7 @@
           "isSecret": true,
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-monsters-by-monsters.webp",
           "description": null,
-          "tags": [],
+          "tags": ["LABUBU", "ラブブ", "らぶぶ"],
           "purchaseUrl": null
         }
       ]
