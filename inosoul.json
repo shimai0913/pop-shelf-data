@@ -1,15 +1,15 @@
 {
   "id": "inosoul",
   "name": "inosoul",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Yixiu",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "inosoul-in-the-still-room",
       "name": "In the Still Room シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-06",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "inosoul-forgotten-land",
       "name": "The Forgotten Land シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-11",
       "imageUrl": null,
       "characters": []
     }

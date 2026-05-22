@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-22",
   "ips": [
     {
       "id": "the-monsters",
@@ -14,7 +14,7 @@
       "name": "SKULLPANDA",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/skullpanda.webp",
       "totalCount": 12,
-      "seriesCount": 7
+      "seriesCount": 5
     },
     {
       "id": "twinkle-twinkle",
@@ -42,7 +42,7 @@
       "name": "Angry Molly",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/angry-molly.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 1
     },
     {
       "id": "dimoo",
@@ -63,7 +63,7 @@
       "name": "Zsiga",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/zsiga.webp",
       "totalCount": 0,
-      "seriesCount": 5
+      "seriesCount": 7
     },
     {
       "id": "space-molly",
@@ -133,7 +133,7 @@
       "name": "Peach Riot",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/peach-riot.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 7
     },
     {
       "id": "nyota",
@@ -189,21 +189,21 @@
       "name": "Bikini Bottom",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/bikini-bottom.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 2
     },
     {
       "id": "universal",
       "name": "UNIVERSAL",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/universal.webp",
       "totalCount": 0,
-      "seriesCount": 1
+      "seriesCount": 3
     },
     {
       "id": "harry-potter",
       "name": "Harry Potter",
       "thumbnailUrl": "https://shimai0913.github.io/pop-shelf-data/images/harry-potter.webp",
       "totalCount": 0,
-      "seriesCount": 0
+      "seriesCount": 5
     }
   ]
 }

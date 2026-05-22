@@ -1,15 +1,15 @@
 {
   "id": "sanrio",
   "name": "Sanrio",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "sanrio-characters-pink-party",
-      "name": "characters Pink Party シリーズ",
+      "name": "Sanrio characters Pink Party シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-03",
       "imageUrl": null,
       "characters": []
     }

@@ -1,15 +1,15 @@
 {
   "id": "hirono",
   "name": "HIRONO",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Lang",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "hirono-星の王子さま",
-      "name": "× 星の王子さま シリーズ",
+      "name": "Hirono × 星の王子さま シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-10",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "hirono-shelter",
       "name": "Shelter シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-10",
       "imageUrl": null,
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "hirono-いたずらっ子",
       "name": "いたずらっ子 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2022,
+      "releaseDate": "2022-08",
       "imageUrl": null,
       "characters": []
     },
@@ -35,8 +35,8 @@
       "id": "hirono-echo",
       "name": "Echo シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-04",
       "imageUrl": null,
       "characters": []
     },
@@ -44,8 +44,8 @@
       "id": "hirono-other-one",
       "name": "The Other One Series",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2021,
+      "releaseDate": "2021-10",
       "imageUrl": null,
       "characters": []
     },
@@ -53,8 +53,8 @@
       "id": "hirono-monsters-carnival",
       "name": "Monsters' Carnival シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-10",
       "imageUrl": null,
       "characters": []
     }

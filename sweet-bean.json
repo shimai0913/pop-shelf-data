@@ -1,15 +1,15 @@
 {
   "id": "sweet-bean",
   "name": "Sweet Bean",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Xue Chen",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "sweet-bean-language-of-love",
       "name": "The Language of Love シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-05",
       "imageUrl": null,
       "characters": []
     },
@@ -17,17 +17,17 @@
       "id": "sweet-bean-i-want-a-hug",
       "name": "I Want a Hug シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-07",
       "imageUrl": null,
       "characters": []
     },
     {
       "id": "sweet-bean-x-instinctoy-sweet-together",
-      "name": "x INSTINCTOY Sweet Together Series",
+      "name": "SWEET BEAN x INSTINCTOY Sweet Together Series",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-03",
       "imageUrl": null,
       "characters": []
     },
@@ -35,8 +35,8 @@
       "id": "sweet-bean-your-exclusive-holiday",
       "name": "Your Exclusive Holiday シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-11",
       "imageUrl": null,
       "characters": []
     },
@@ -44,8 +44,8 @@
       "id": "sweet-bean-days-of-sparkles",
       "name": "Days of Sparkles シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-03",
       "imageUrl": null,
       "characters": []
     }

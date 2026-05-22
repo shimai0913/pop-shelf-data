@@ -1,44 +1,538 @@
 {
   "id": "twinkle-twinkle",
   "name": "Twinkle Twinkle",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Da Xin",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "twinkle-twinkle-gifts-from-stars",
       "name": "The Gifts From Stars シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-12",
       "imageUrl": null,
-      "characters": []
+      "characters": [
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-handwritten-gift",
+          "name": "Handwritten Gift",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-snowman-friend",
+          "name": "Snowman Friend",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-fortune-cookies",
+          "name": "Fortune Cookies",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-a-big-hug",
+          "name": "A Big Hug",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-lovely-puppy",
+          "name": "Lovely Puppy",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-happy-trumpeter",
+          "name": "Happy Trumpeter",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-star-jar",
+          "name": "Star Jar",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-star-apple",
+          "name": "Star Apple",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-make-a-wish",
+          "name": "Make a Wish",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-gifts-from-stars-the-best-gift",
+          "name": "The Best Gift",
+          "slot": 10,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "twinkle-twinkle-be-a-little-star",
       "name": "Be a Little Star シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-08",
       "imageUrl": null,
-      "characters": []
+      "characters": [
+        {
+          "id": "twinkle-twinkle-be-a-little-star-teeter-totter",
+          "name": "Teeter-Totter",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-blowing-bubblegum",
+          "name": "Blowing Bubblegum",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-haircut",
+          "name": "Haircut",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-globetrotting",
+          "name": "Globetrotting",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-wake-up-sleepyhead",
+          "name": "Wake up! Sleepyhead!",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-baby-ice-pop",
+          "name": "Baby Ice Pop",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-the-magical-chef",
+          "name": "The Magical Chef",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-lose-a-tooth",
+          "name": "Lose a Tooth",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-bad-temper",
+          "name": "Bad Temper",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-banana-split",
+          "name": "Banana Split",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-little-king",
+          "name": "Little King",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-little-balloon",
+          "name": "Little Balloon",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-be-a-little-star-little-balloon-secret",
+          "name": "Little Balloon",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "twinkle-twinkle-savor-the-moment",
       "name": "Savor the Moment シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-09",
       "imageUrl": null,
-      "characters": []
+      "characters": [
+        {
+          "id": "twinkle-twinkle-savor-the-moment-lazy-moments",
+          "name": "Lazy Moments",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-the-eternity-of-pizza",
+          "name": "The Eternity Of Pizza",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-macaron-moment",
+          "name": "Macaron Moment",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-earl-teapot",
+          "name": "Earl Teapot",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-orange-marmalade",
+          "name": "Orange Marmalade",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-lucky-pudding",
+          "name": "Lucky Pudding",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-strong-bread",
+          "name": "Strong Bread",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-cookie-house",
+          "name": "Cookie House",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-star-candy",
+          "name": "Star Candy",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-coffee-milk-bath",
+          "name": "Coffee Milk Bath",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-happy-palmier",
+          "name": "Happy Palmier",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-chestnut-cream",
+          "name": "Chestnut Cream",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-savor-the-moment-matcha-cream-snow",
+          "name": "Matcha Cream Snow",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     },
     {
       "id": "twinkle-twinkle-crush-on-you",
       "name": "Crush On You シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-01",
       "imageUrl": null,
-      "characters": []
+      "characters": [
+        {
+          "id": "twinkle-twinkle-crush-on-you-when-you-call",
+          "name": "When You Call",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-i-hear-you",
+          "name": "I Hear You",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-blushing-moment",
+          "name": "Blushing Moment",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-candy-words",
+          "name": "Candy Words",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-heart-unlocked",
+          "name": "Heart Unlocked",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-light-up",
+          "name": "Light Up",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-albatross-vow",
+          "name": "Albatross's Vow",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-flower-bearer",
+          "name": "Flower Bearer",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-hold-myself-with-love",
+          "name": "Hold Myself With Love",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-nerdy-cupid",
+          "name": "Nerdy Cupid",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-grow-grey-together",
+          "name": "Grow Grey Together",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-till-were-old",
+          "name": "Till We're Old",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "twinkle-twinkle-crush-on-you-sweet-memories",
+          "name": "Sweet Memories",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     }
   ]
 }

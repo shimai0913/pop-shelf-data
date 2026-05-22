@@ -2,7 +2,7 @@
   "id": "dimoo",
   "name": "DIMOO",
   "designer": "Ayan Tang",
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "dimoo-space-travel",
@@ -10,6 +10,7 @@
       "type": "box",
       "releaseYear": 2020,
       "releaseDate": "2020-03",
+      "imageUrl": null,
       "characters": [
         {
           "id": "dimoo-space-travel-001",
@@ -149,6 +150,7 @@
       "type": "box",
       "releaseYear": 2021,
       "releaseDate": "2021-10",
+      "imageUrl": null,
       "characters": [
         {
           "id": "dimoo-forest-night-001",
@@ -288,6 +290,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-03",
+      "imageUrl": null,
       "characters": [
         {
           "id": "dimoo-animal-kingdom-001",
@@ -425,8 +428,8 @@
       "id": "dimoo-by-your-side",
       "name": "By Your Side シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-06",
       "imageUrl": null,
       "characters": []
     },
@@ -434,8 +437,8 @@
       "id": "dimoo-world-disney",
       "name": "WORLD × DISNEY シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-03",
       "imageUrl": null,
       "characters": []
     },
@@ -443,8 +446,8 @@
       "id": "dimoo-shapes-in-nature",
       "name": "Shapes in Nature シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-07",
       "imageUrl": null,
       "characters": []
     },
@@ -452,8 +455,8 @@
       "id": "dimoo-missing-day",
       "name": "The Missing Day シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-09",
       "imageUrl": null,
       "characters": []
     },
@@ -461,8 +464,8 @@
       "id": "dimoo-memories-we-hold",
       "name": "Memories We Hold シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     },
@@ -470,8 +473,8 @@
       "id": "dimoo-moments-in-bloom",
       "name": "Moments in Bloom シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-03",
       "imageUrl": null,
       "characters": []
     }

@@ -1,15 +1,15 @@
 {
   "id": "supertutu",
   "name": "SUPERTUTU",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Pop Design Center",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "supertutu-happy-ing",
       "name": "HAPPY-ING! シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-01",
       "imageUrl": null,
       "characters": []
     }

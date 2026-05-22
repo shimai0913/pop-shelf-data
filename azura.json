@@ -1,15 +1,15 @@
 {
   "id": "azura",
   "name": "AZURA",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Two Clouds",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "azura-warm-christmas",
       "name": "Warm Christmas シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-11",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "azura-dream-about-stars",
       "name": "A Dream About Stars シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-07",
       "imageUrl": null,
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "azura-ethereal-realm-mythical-beasts",
       "name": "Ethereal Realm: Mythical Beasts シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     }

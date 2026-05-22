@@ -2,7 +2,7 @@
   "id": "molly",
   "name": "MOLLY",
   "designer": "Kenny Wong",
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "molly-zodiac",
@@ -10,6 +10,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-02",
+      "imageUrl": null,
       "characters": [
         {
           "id": "molly-zodiac-001",
@@ -118,17 +119,17 @@
       "id": "molly-アニバーサリー-クラシカル-レトロ-2",
       "name": "アニバーサリー クラシカル レトロ 2 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-07",
       "imageUrl": null,
       "characters": []
     },
     {
       "id": "molly-x-ズートピア-コラボ",
-      "name": "x ズートピア コラボシリーズ",
+      "name": "MOLLY x ズートピア コラボシリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-10",
       "imageUrl": null,
       "characters": []
     },
@@ -136,8 +137,8 @@
       "id": "molly-scenery-along-the-way-20th-anniversary",
       "name": "Scenery Along the Way 20th Anniversary シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-04",
       "imageUrl": null,
       "characters": []
     }

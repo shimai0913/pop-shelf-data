@@ -34,7 +34,7 @@ cd scripts && node scrape-series-images.js
 
 **`{ip-id}.json`** — IP ごとのシリーズ・キャラクターデータ:
 ```json
-{ "id", "name", "designer", "updatedAt",
+{ "id", "name", "designer", "description" (任意),  "updatedAt",
   "series": [{
     "id", "name", "type", "releaseYear", "releaseDate", "imageUrl",
     "characters": [{ "id", "name", "slot", "isSecret", "imageUrl", "description", "tags", "purchaseUrl" }]

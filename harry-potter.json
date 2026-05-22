@@ -1,7 +1,53 @@
 {
   "id": "harry-potter",
   "name": "Harry Potter",
-  "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "designer": "",
+  "updatedAt": "2026-05-22",
+  "series": [
+    {
+      "id": "harry-potter-sorcerers-stone",
+      "name": "Harry Potter and the Sorcerer's Stone シリーズ",
+      "type": "box",
+      "releaseYear": 2021,
+      "releaseDate": "2021-12",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "harry-potter-chamber-of-secrets",
+      "name": "Harry Potter and the Chamber of Secrets シリーズ",
+      "type": "box",
+      "releaseYear": 2022,
+      "releaseDate": "2022-08",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "harry-potter-prisoner-of-azkaban",
+      "name": "Harry Potter and the Prisoner of Azkaban シリーズ",
+      "type": "box",
+      "releaseYear": 2023,
+      "releaseDate": "2023-07",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "harry-potter-pop-cube",
+      "name": "Harry Potter POP CUBE シリーズ",
+      "type": "box",
+      "releaseYear": 2025,
+      "releaseDate": "2025-06",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "harry-potter-goblet-of-fire",
+      "name": "Harry Potter and the Goblet of Fire シリーズ",
+      "type": "box",
+      "releaseYear": 2025,
+      "releaseDate": "2025-07",
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

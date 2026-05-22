@@ -1,17 +1,368 @@
 {
   "id": "universal",
   "name": "UNIVERSAL",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "",
+  "updatedAt": "2026-05-22",
   "series": [
+    {
+      "id": "universal-monsters-alliance",
+      "name": "Monsters Alliance シリーズ",
+      "type": "box",
+      "releaseYear": 2023,
+      "releaseDate": "2023-10",
+      "imageUrl": null,
+      "characters": [
+        {
+          "id": "universal-monsters-alliance-001",
+          "name": "Frankenstein",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-002",
+          "name": "The Bride of Frankenstein",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-003",
+          "name": "Dracula",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-004",
+          "name": "The Mummy",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-005",
+          "name": "The Wolf Man",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-006",
+          "name": "Van Helsing",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-007",
+          "name": "Creature from the Black Lagoon",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-008",
+          "name": "The Phantom of the Opera",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-009",
+          "name": "The Invisible Man",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-monsters-alliance-secret",
+          "name": "Dr. Jekyll and Mr. Hyde",
+          "slot": 10,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    },
+    {
+      "id": "universal-kung-fu-panda-4",
+      "name": "Kung Fu Panda 4 シリーズ",
+      "type": "box",
+      "releaseYear": 2024,
+      "releaseDate": "2024-02",
+      "imageUrl": null,
+      "characters": [
+        {
+          "id": "universal-kung-fu-panda-4-001",
+          "name": "Fully Equipped",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-002",
+          "name": "Light up the Dark",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-003",
+          "name": "Delightful Smell",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-004",
+          "name": "Evil Leader",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-005",
+          "name": "Fighting Side by Side",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-006",
+          "name": "Work Together",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-007",
+          "name": "Peak of Perfection",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-008",
+          "name": "Superb State",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-009",
+          "name": "Meditation",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-kung-fu-panda-4-secret",
+          "name": "Delicious Moment",
+          "slot": 10,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
+    },
     {
       "id": "universal-despicable-me-4",
       "name": "Despicable Me 4 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-06",
       "imageUrl": null,
-      "characters": []
+      "characters": [
+        {
+          "id": "universal-despicable-me-4-001",
+          "name": "Party Jorge",
+          "slot": 1,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-002",
+          "name": "Party Jerry",
+          "slot": 2,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-003",
+          "name": "Party Tom",
+          "slot": 3,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-004",
+          "name": "Thief Phil",
+          "slot": 4,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-005",
+          "name": "AVL Gus",
+          "slot": 5,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-006",
+          "name": "AVL Dave",
+          "slot": 6,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-007",
+          "name": "Pit Crew Phil",
+          "slot": 7,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-008",
+          "name": "Pit Crew Ron",
+          "slot": 8,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-009",
+          "name": "Pit Crew Carl",
+          "slot": 9,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-010",
+          "name": "Mega Minion Jerry",
+          "slot": 10,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-011",
+          "name": "Mega Minion Mel",
+          "slot": 11,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-012",
+          "name": "Mega Minion Gus",
+          "slot": 12,
+          "isSecret": false,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        },
+        {
+          "id": "universal-despicable-me-4-secret",
+          "name": "Gru Jr.",
+          "slot": 13,
+          "isSecret": true,
+          "imageUrl": null,
+          "description": null,
+          "tags": [],
+          "purchaseUrl": null
+        }
+      ]
     }
   ]
 }

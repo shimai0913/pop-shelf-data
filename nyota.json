@@ -1,15 +1,15 @@
 {
   "id": "nyota",
   "name": "Nyota",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Kaka",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "nyota-growing-up-by-your-way",
       "name": "Growing up by Your Way シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-12",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "nyota-i-am-the-seasons",
       "name": "I Am the Seasons シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-07",
       "imageUrl": null,
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "nyota-love-comes-with-the-wind",
       "name": "Love Comes with the Wind シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-07",
       "imageUrl": null,
       "characters": []
     },
@@ -35,8 +35,8 @@
       "id": "nyota-we-are-all-stars",
       "name": "We are All Stars シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     }

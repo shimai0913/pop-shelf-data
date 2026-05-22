@@ -1,15 +1,15 @@
 {
   "id": "disney",
   "name": "Disney",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "disney-snow-white-classic",
       "name": "Snow White Classic シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-03",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "disney-swing",
       "name": "Swing シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-05",
       "imageUrl": null,
       "characters": []
     },
@@ -26,17 +26,8 @@
       "id": "disney-donald-duck-90th-anniversary",
       "name": "Donald Duck 90th Anniversary シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
-      "imageUrl": null,
-      "characters": []
-    },
-    {
-      "id": "disney-princess-create-your-world",
-      "name": "Princess Create Your World シリーズ",
-      "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-05",
       "imageUrl": null,
       "characters": []
     },
@@ -44,8 +35,17 @@
       "id": "disney-zootopia-next-adventure",
       "name": "Zootopia Next Adventure シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-09",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "disney-princess-create-your-world",
+      "name": "Princess Create Your World シリーズ",
+      "type": "box",
+      "releaseYear": 2025,
+      "releaseDate": "2025-08",
       "imageUrl": null,
       "characters": []
     },
@@ -53,8 +53,8 @@
       "id": "disney-チップとデールfun-loving-brothers",
       "name": "チップとデールFun-loving Brothers シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-09",
       "imageUrl": null,
       "characters": []
     },
@@ -62,8 +62,8 @@
       "id": "disney-classics-pop-cube-1",
       "name": "Classics POP CUBE-1 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-08",
       "imageUrl": null,
       "characters": []
     },
@@ -71,8 +71,8 @@
       "id": "disney-classics-pop-cube-2",
       "name": "Classics POP CUBE-2 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     },
@@ -80,8 +80,8 @@
       "id": "disney-classics-pop-cube-3",
       "name": "Classics POP CUBE-3 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     },
@@ -89,17 +89,17 @@
       "id": "disney-mickey-boundless-creativity",
       "name": "Mickey Boundless Creativity シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-01",
       "imageUrl": null,
       "characters": []
     },
     {
       "id": "disney-pixar-toy-story-5",
-      "name": "/Pixar Toy Story 5 シリーズ",
+      "name": "Disney/Pixar Toy Story 5 シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-05",
       "imageUrl": null,
       "characters": []
     }

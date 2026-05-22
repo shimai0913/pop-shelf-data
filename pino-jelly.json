@@ -1,15 +1,15 @@
 {
   "id": "pino-jelly",
   "name": "PINO JELLY",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "YUMI",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "pino-jelly-in-your-life",
       "name": "In Your Life シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-06",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "pino-jelly-hard-shiny",
       "name": "Hard & Shiny シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-01",
       "imageUrl": null,
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "pino-jelly-star-project",
       "name": "Star Project シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-09",
       "imageUrl": null,
       "characters": []
     },
@@ -35,8 +35,8 @@
       "id": "pino-jelly-sweet-like-me",
       "name": "Sweet Like Me シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-07",
       "imageUrl": null,
       "characters": []
     },
@@ -44,8 +44,8 @@
       "id": "pino-jelly-i-m-your-doll",
       "name": "I'm Your Doll シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-05",
       "imageUrl": null,
       "characters": []
     }

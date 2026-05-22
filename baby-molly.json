@@ -1,15 +1,15 @@
 {
   "id": "baby-molly",
   "name": "Baby Molly",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Kenny Wong",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "baby-molly-baby-tabby",
-      "name": "& Baby Tabby シリーズ",
+      "name": "Baby Molly & Baby Tabby シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-05",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "baby-molly-my-huggable-discovery",
       "name": "My Huggable Discovery シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-01",
       "imageUrl": null,
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "baby-molly-when-i-was-three",
       "name": "When I was Three！シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-04",
       "imageUrl": null,
       "characters": []
     }

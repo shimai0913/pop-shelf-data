@@ -1,7 +1,71 @@
 {
   "id": "peach-riot",
   "name": "Peach Riot",
-  "designer": null,
-  "updatedAt": "2026-05-18",
-  "series": []
+  "designer": "Libby Frame",
+  "updatedAt": "2026-05-22",
+  "series": [
+    {
+      "id": "peach-riot-rise-up",
+      "name": "Rise Up シリーズ",
+      "type": "box",
+      "releaseYear": 2023,
+      "releaseDate": "2023-12",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "peach-riot-street-style",
+      "name": "Street Style シリーズ",
+      "type": "box",
+      "releaseYear": 2023,
+      "releaseDate": "2023-12",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "peach-riot-witchy-punk",
+      "name": "Witchy Punk シリーズ",
+      "type": "box",
+      "releaseYear": 2024,
+      "releaseDate": "2024-10",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "peach-riot-lil-peach-loading",
+      "name": "Lil Peach Loading! シリーズ",
+      "type": "box",
+      "releaseYear": 2024,
+      "releaseDate": "2024-11",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "peach-riot-rush-hour",
+      "name": "Rush Hour シリーズ",
+      "type": "box",
+      "releaseYear": 2025,
+      "releaseDate": "2025-02",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "peach-riot-rainbow-riot",
+      "name": "Rainbow Riot シリーズ",
+      "type": "box",
+      "releaseYear": 2025,
+      "releaseDate": "2025-05",
+      "imageUrl": null,
+      "characters": []
+    },
+    {
+      "id": "peach-riot-lil-peach-sleepover",
+      "name": "Lil Peach Sleepover シリーズ",
+      "type": "box",
+      "releaseYear": 2025,
+      "releaseDate": "2025-08",
+      "imageUrl": null,
+      "characters": []
+    }
+  ]
 }

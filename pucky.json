@@ -1,15 +1,15 @@
 {
   "id": "pucky",
   "name": "PUCKY",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Pucky",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "pucky-roly-poly-kitty",
       "name": "Roly-Poly Kitty シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2024,
+      "releaseDate": "2024-09",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "pucky-fairies-market",
       "name": "Fairies' Market シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     },
@@ -26,8 +26,8 @@
       "id": "pucky-dreamy-wishes",
       "name": "Dreamy Wishes シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2026,
+      "releaseDate": "2026-04",
       "imageUrl": null,
       "characters": []
     }

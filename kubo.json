@@ -1,15 +1,15 @@
 {
   "id": "kubo",
   "name": "KUBO",
-  "designer": null,
-  "updatedAt": "2026-05-19",
+  "designer": "Bao Bao",
+  "updatedAt": "2026-05-22",
   "series": [
     {
       "id": "kubo-city-of-sunset",
       "name": "City of Sunset シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-08",
       "imageUrl": null,
       "characters": []
     },
@@ -17,8 +17,8 @@
       "id": "kubo-angel-s-poem",
       "name": "Angel's Poem シリーズ",
       "type": "box",
-      "releaseYear": null,
-      "releaseDate": null,
+      "releaseYear": 2025,
+      "releaseDate": "2025-12",
       "imageUrl": null,
       "characters": []
     }
