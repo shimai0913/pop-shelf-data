@@ -3,7 +3,7 @@
   "name": "THE MONSTERS",
   "designer": "Kasing Lung",
   "description": "THE MONSTERS(ザ・モンスターズ)は、北欧の森に住む小さくて遊び好きなエルフたちです。\nその中でも9本の歯とピンとがった耳が特徴の LABUBU たちは、ひときわ元気いっぱい。いつも好奇心にあふれ、やんちゃでありながらも心優しい存在です。\n彼らがいつ現れたのか正確には誰も知りませんが、もしかすると恐竜よりも古い時代からいたのかもしれません！",
-  "updatedAt": "2026-05-20",
+  "updatedAt": "2026-05-23",
   "series": [
     {
       "id": "the-monsters-コカ-コーラ",
@@ -21,7 +21,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-little-snowman.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-special-sofa",
@@ -31,7 +31,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-special-sofa.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-snowy-mountain",
@@ -41,7 +41,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-snowy-mountain.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-vacation-fit",
@@ -51,7 +51,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-vacation-fit.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-time-to-cool-down",
@@ -61,7 +61,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-time-to-cool-down.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-look-what-i-found",
@@ -71,7 +71,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-look-what-i-found.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-super-surprise",
@@ -81,7 +81,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-super-surprise.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-surf-with-me",
@@ -91,7 +91,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-surf-with-me.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-gift-delivery",
@@ -101,7 +101,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-gift-delivery.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-crazy-ride",
@@ -111,7 +111,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-crazy-ride.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-coca-cola-labubu-express",
@@ -121,7 +121,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-coca-cola/the-monsters-coca-cola-labubu-express.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/3887/THE-MONSTERS-%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         }
       ]
     },
@@ -141,7 +141,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-zone-out.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-ab-roller",
@@ -151,7 +151,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-ab-roller.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-confident",
@@ -161,7 +161,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-confident.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-show-off",
@@ -171,7 +171,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-show-off.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-stretch-out",
@@ -181,7 +181,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-stretch-out.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-sweating",
@@ -191,7 +191,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-sweating.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-sleeping",
@@ -201,7 +201,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-sleeping.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-little-bird",
@@ -211,7 +211,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-little-bird.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-americano",
@@ -221,7 +221,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-americano.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-lay-down",
@@ -231,7 +231,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-lay-down.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-lazy-yoga-yoga-coach",
@@ -241,7 +241,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-lazy-yoga/the-monsters-lazy-yoga-yoga-coach.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4369/THE-MONSTERS-Lazy-Yoga-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         }
       ]
     },
@@ -261,7 +261,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-canned-pineapple.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-lamp",
@@ -271,7 +271,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-lamp.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-sculpture",
@@ -281,7 +281,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-sculpture.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-fire-hydrant",
@@ -291,7 +291,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-fire-hydrant.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-tree-house",
@@ -301,7 +301,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-tree-house.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-flask",
@@ -311,7 +311,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-flask.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-traffic-light",
@@ -321,7 +321,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-traffic-light.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-flower-pot",
@@ -331,7 +331,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-flower-pot.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-spray-can",
@@ -341,7 +341,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-spray-can.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-bread-bag",
@@ -351,7 +351,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-bread-bag.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-mailbox",
@@ -361,7 +361,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-mailbox.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-cactus",
@@ -371,7 +371,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-cactus.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         },
         {
           "id": "the-monsters-almost-hidden-kiddie-ride",
@@ -381,7 +381,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-almost-hidden/the-monsters-almost-hidden-kiddie-ride.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/products/4621/THE-MONSTERS-Almost-Hidden-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
         }
       ]
     },
@@ -401,7 +401,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-hug-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-scary-time",
@@ -411,7 +411,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-scary-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-reading-time",
@@ -421,7 +421,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-reading-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-crawling-time",
@@ -431,7 +431,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-crawling-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-adventure-time",
@@ -441,7 +441,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-adventure-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-sweet-dream-time",
@@ -451,7 +451,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-sweet-dream-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-calling-time",
@@ -461,7 +461,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-calling-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-sleepless-time",
@@ -471,7 +471,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-sleepless-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-music-time",
@@ -481,7 +481,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-music-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-relaxed-time",
@@ -491,7 +491,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-relaxed-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         },
         {
           "id": "the-monsters-1-00-a-m-stop-the-time",
@@ -501,7 +501,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-1-00-a-m/the-monsters-1-00-a-m-stop-the-time.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/588"
         }
       ]
     },
@@ -521,7 +521,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-zimomo.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-tycoco",
@@ -531,7 +531,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-tycoco.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-cowawa",
@@ -541,7 +541,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-cowawa.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-spooky",
@@ -551,7 +551,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-spooky.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-pippo",
@@ -561,7 +561,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-pippo.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-mokoko",
@@ -571,7 +571,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-mokoko.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-yaya",
@@ -581,7 +581,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-yaya.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-pato",
@@ -591,7 +591,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-pato.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-labubu-puca",
@@ -601,7 +601,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-labubu-puca.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         },
         {
           "id": "the-monsters-10th-anniversary-monsters-by-monsters",
@@ -611,7 +611,7 @@
           "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/characters/the-monsters/the-monsters-10th-anniversary/the-monsters-10th-anniversary-monsters-by-monsters.webp",
           "description": null,
           "tags": ["LABUBU", "ラブブ", "らぶぶ"],
-          "purchaseUrl": null
+          "purchaseUrl": "https://www.popmart.com/jp/pop-now/set/966"
         }
       ]
     }
