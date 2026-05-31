@@ -2,7 +2,7 @@
   "id": "zsiga",
   "name": "Zsiga",
   "designer": "Dan",
-  "description": "Zsiga(ジィシーガ)は反抗的でありながら純真な子どもであり、外の世界から傷つかないよう彼女を守るためのとげを持っています。 彼女は自由で野生的に生きるために生まれ、不正に疑問を投げかけるのをいとわず、そして美を貴ぶ心を持っています。右足にいる子犬は、Zsigaの良き友であり、彼女の感情と完璧に調和しています。",
+  "description": "Zsiga(ジィシーガ)は反抗的でありながら純真な子どもであり、外の世界から傷つかないよう彼女を守るためのとげを持っています。\n彼女は自由で野生的に生きるために生まれ、不正に疑問を投げかけるのをいとわず、そして美を貴ぶ心を持っています。右足にいる子犬は、Zsigaの良き友であり、彼女の感情と完璧に調和しています。",
   "updatedAt": "2026-05-22",
   "series": [
     {
@@ -11,7 +11,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-01",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-twins.webp",
       "characters": []
     },
     {
@@ -20,7 +20,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-05",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-let-it-be.webp",
       "characters": []
     },
     {
@@ -29,7 +29,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-09",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-we-all-are-kids.webp",
       "characters": []
     },
     {
@@ -38,7 +38,7 @@
       "type": "box",
       "releaseYear": 2025,
       "releaseDate": "2025-03",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-borderline-drifter.webp",
       "characters": []
     },
     {
@@ -47,7 +47,7 @@
       "type": "box",
       "releaseYear": 2025,
       "releaseDate": "2025-06",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-take-it-slow.webp",
       "characters": []
     },
     {
@@ -56,7 +56,7 @@
       "type": "box",
       "releaseYear": 2025,
       "releaseDate": "2025-11",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-winter-of-gifts.webp",
       "characters": []
     },
     {
@@ -65,7 +65,7 @@
       "type": "box",
       "releaseYear": 2026,
       "releaseDate": "2026-02",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/zsiga/zsiga-under-the-sun.webp",
       "characters": []
     }
   ]
