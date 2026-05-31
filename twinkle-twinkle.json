@@ -2,6 +2,7 @@
   "id": "twinkle-twinkle",
   "name": "Twinkle Twinkle",
   "designer": "Da Xin",
+  "description": "Twinkle Twinkle(トゥインクルトゥインクル)は、小さな星たちのグループであり、勇気、憧れ、愛の物語を紡ぎます。\n彼らは陽気で好奇心旺盛な存在でありながら、頑固で少し不器用な一面も持っています。\nほんのりピンク色の頬は、無邪気な子どものようでもあり、照れ屋な大人のようでもあります。\n時には困難や悲しみに直面することもありますが、Twinkle Twinkleたちは、どんなことでも乗り越えられると信じています。\n彼らは、誰もが自分と同じTwinkle Twinkleを見つけられることを願っています。",
   "updatedAt": "2026-05-22",
   "series": [
     {
@@ -10,7 +11,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-12",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/twinkle-twinkle/twinkle-twinkle-gifts-from-stars.webp",
       "characters": [
         {
           "id": "twinkle-twinkle-gifts-from-stars-handwritten-gift",
@@ -120,7 +121,7 @@
       "type": "box",
       "releaseYear": 2024,
       "releaseDate": "2024-08",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/twinkle-twinkle/twinkle-twinkle-be-a-little-star.webp",
       "characters": [
         {
           "id": "twinkle-twinkle-be-a-little-star-teeter-totter",
@@ -260,7 +261,7 @@
       "type": "box",
       "releaseYear": 2025,
       "releaseDate": "2025-09",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/twinkle-twinkle/twinkle-twinkle-savor-the-moment.webp",
       "characters": [
         {
           "id": "twinkle-twinkle-savor-the-moment-lazy-moments",
@@ -400,7 +401,7 @@
       "type": "box",
       "releaseYear": 2026,
       "releaseDate": "2026-01",
-      "imageUrl": null,
+      "imageUrl": "https://shimai0913.github.io/pop-shelf-data/images/series/twinkle-twinkle/twinkle-twinkle-crush-on-you.webp",
       "characters": [
         {
           "id": "twinkle-twinkle-crush-on-you-when-you-call",
